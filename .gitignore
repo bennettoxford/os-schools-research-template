@@ -1,16 +1,6 @@
 data/*
 output/*
 
-# R history and session files
-.Rhistory
-.Rapp.history
-.RData
-.Ruserdata
-
-# RStudio-specific files
-.Rproj.user/
-*.Rproj
-
 # OS-specific junk
 .DS_Store
 Thumbs.db
