@@ -10,4 +10,4 @@ After starting a new project from this template:
 
 To run this code, install [uv](https://docs.astral.sh/uv/guides/tools/), and run:
 
-    uv run 01_count_rows.py
+    uv run analysis/01_count_rows.py
