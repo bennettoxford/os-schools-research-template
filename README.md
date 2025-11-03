@@ -13,7 +13,7 @@ After starting a new project from this template:
 This code is being developed for the [Teaching Improvement through Data and Evaluation (TIDE) project](https://niot.org.uk/research-projects/teacher_improvement_through_data_evaluation_tide).
 It is being developed locally using [synthetic data](https://github.com/bennettoxford/os-schools-data/tree/main/synthetic-data) before being run against real data in the [Teacher Education Dataset (TED)](https://niot.org.uk/research-projects/teacher_education_dataset).
 To ensure public transparency, all requests to run research code against the TED dataset can be found [here](https://github.com/bennettoxford/os-schools-requests/issues?q=label%3Arun-request),
-nd all requests to share the outputs can be found [here](https://github.com/bennettoxford/os-schools-requests/issues?q=label%3Ashare-request).
+and all requests to share the outputs can be found [here](https://github.com/bennettoxford/os-schools-requests/issues?q=label%3Ashare-request).
 
 ## Description
 
