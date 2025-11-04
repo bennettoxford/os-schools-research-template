@@ -4,8 +4,8 @@ After starting a new project from this template:
 
 * Update the project details in `pyproject.toml`.
 * Update the title of this document with the name of the repo.
-* Write a brief description below so that a member of the public viewing this repository could understand, at a high level, what the goals of this specific piece of analysis are.  (It may make sense to edit this as your project progresses).
-* Replace the instructions below with instructions for running your code.
+* Update _Description_ belo with a brief description so that a member of the public viewing this repository could understand, at a high level, what the goals of this specific piece of analysis are.  (It may make sense to edit this as your project progresses).
+* Update _Instructions to run this code_ with instructions for running your code.  (Again, it may make sense to edit this as your project progresses).
 * Remove these instructions.
 
 ## Project overview
@@ -21,7 +21,7 @@ _To be updated by the project owner._
 
 ## Instructions to run this code
 
-_To be updated by the project owner._
+_To be updated by the project owner.  These instructions describe how to run the sample script in the analysis/ directory._
 
 To run this code, install [uv](https://docs.astral.sh/uv/guides/tools/), and run:
 
